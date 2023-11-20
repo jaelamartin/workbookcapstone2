@@ -1,4 +1,25 @@
-This web site is for finding the parks and trails 
-found in the US.
+WELCOME TO THE GREAT OUTDOORS README FILE
 
-you can find pictuers and information on them and the mountains.
+# Parks and Mountains Explorer Website
+
+## Overview
+
+Welcome to the THE GREAT OUTDOORS Explorer website repository! This project is a dynamic website that provides information about various parks and mountains, encouraging users to explore the beauty of nature. Whether you're an avid hiker, a nature enthusiast, or someone looking for a peaceful getaway, this website aims to be your go-to resource for discovering new destinations.
+
+## Features
+
+- **Explore Parks:** Browse through an extensive list of parks, each with detailed information about their location, features, and activities.
+  
+- **Discover Mountains:** Learn about majestic mountains, including their elevation, climbing challenges, and breathtaking views.
+
+
+- **Photo Galleries:** Immerse yourself in the beauty of these natural wonders through stunning photo galleries.
+
+## Getting Started
+
+To run the website locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/jaelamartin/workbookcapstone2.git
